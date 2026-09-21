@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32210.238
+VisualStudioVersion = 16.11.6.22506.
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankIO", "ByteBankIO\ByteBankIO.csproj", "{4A2CBB11-6757-43A8-BB4C-2A1345845777}"
 EndProject
